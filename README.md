@@ -1,2 +1,0 @@
-# spamsms
-spamsms didi ganteng
